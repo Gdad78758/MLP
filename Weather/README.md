@@ -18,25 +18,25 @@ Info for weather data string needed in direwolf:
 
 This represents:
 
-  272  = Wind 272 degrees
+|   272  = Wind 272 degrees
 
-  /    = separator
+|   /    = separator
 
-  000  = 0 MPH
+|   000  = 0 MPH
 
-  g006 = Gusts 6 MPH
+|   g006 = Gusts 6 MPH
 
-  t069 = Temperature 69 degrees
+|   t069 = Temperature 69 degrees
 
-  r010 = 0.10 = Rain in last hour in hundredths of an inch
+|   r010 = 0.10 = Rain in last hour in hundredths of an inch
 
-  p030 = 0.30 = Rain in last 24 hours in hundredths of an inch
+|   p030 = 0.30 = Rain in last 24 hours in hundredths of an inch
 
-  P020 = 0.20 = Rain since midnight in hundredts of an inch
+|   P020 = 0.20 = Rain since midnight in hundredts of an inch
 
-  h61  = 61% = Humidity in percent
+|   h61  = 61% = Humidity in percent
 
-  b10150 = 1015.5 mbar = barometric pressure in tenths of a millibar
+|   b10150 = 1015.5 mbar = barometric pressure in tenths of a millibar
 
 
 
