@@ -1,0 +1,9 @@
+Sprinkler Controller Notes
+
+Raspberry Pi family mechanical data:
+
+https://www.raspberrypi-spy.co.uk/2012/03/mechanical-data-dimensions/
+
+6.928 mm from point to point
+6mm from flat to flat
+1mm deep
